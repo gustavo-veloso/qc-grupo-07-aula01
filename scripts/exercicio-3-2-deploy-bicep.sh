@@ -1,7 +1,7 @@
 #!/bin/bash
 
 echo "Compilando o template Bicep para verificar se há erros de sintaxe..."
-az bicep build --file ../Bicep/main.bicep
+az bicep build --file ../aula01-bicep/main.bicep
 
 echo "Iniciando execução do script de deploy do Bicep..."
 az group create --name rg-bicep-aula01 --location eastus2
