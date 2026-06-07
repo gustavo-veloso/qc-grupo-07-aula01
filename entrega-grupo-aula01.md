@@ -1,4 +1,3 @@
-```markdown
 # Entrega Aula 01 — Grupo 07
 
 **Disciplina:** Cloud & Cognitive Environments — FIAP MBA AI Engineering & Multi-Agents
@@ -538,4 +537,3 @@ A adoção de uma arquitetura multi-cloud permite à Quantum Commerce reduzir ri
 - Código IaC: `terraform/`
 - Scripts: `scripts/`
 - Endpoint ativo (se houver): URL pública sem credenciais — apenas para demonstração durante a janela de correção
-```
