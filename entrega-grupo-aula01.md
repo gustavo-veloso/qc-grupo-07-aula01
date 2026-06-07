@@ -1,3 +1,4 @@
+```markdown
 # Entrega Aula 01 — Grupo 07
 
 **Disciplina:** Cloud & Cognitive Environments — FIAP MBA AI Engineering & Multi-Agents
@@ -22,7 +23,7 @@
 | Marcio Soares | 🟡 N2 | Exercício 2.1 |
 | Diogo Veiga | 🟡 N2 | Exercício 2.2 |
 | Diego Ricco | 🟡 N2 | Exercício 2.3 |
-| Gustavo Veloso| 🔴 N3 (bônus) | Exercício 3.1 — IaC avançado |
+| Gustavo Veloso| 🔴 N3 (bônus) | Exercício 3.1, 3.2 e 3.3 — IaC avançado |
 | Diego Ricco, Diogo Veiga, Gustavo Veloso e Marcio Soares  | 🟢 N1 (apoio) | Revisão das respostas N1 |
 
 > Regra: cada membro deve ter pelo menos uma contribuição. O **rodízio entre aulas** (quem fez N1 antes faz N2 depois) é incentivado e vale o ponto do Critério 4 (ver [rubrica.md](rubrica.md)).
@@ -537,3 +538,4 @@ A adoção de uma arquitetura multi-cloud permite à Quantum Commerce reduzir ri
 - Código IaC: `terraform/`
 - Scripts: `scripts/`
 - Endpoint ativo (se houver): URL pública sem credenciais — apenas para demonstração durante a janela de correção
+```
