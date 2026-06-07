@@ -534,6 +534,7 @@ A adoção de uma arquitetura multi-cloud permite à Quantum Commerce reduzir ri
 ## Artefatos do ZIP
 
 - Diagrama: `diagramas/arquitetura-qc-aulaXX.png`
-- Código IaC: `terraform/`
+- Código IaC - Terraform: `terraform/` 
+- Código IaC - Bicep: `aula-01-bicep/`
 - Scripts: `scripts/`
 - Endpoint ativo (se houver): URL pública sem credenciais — apenas para demonstração durante a janela de correção
