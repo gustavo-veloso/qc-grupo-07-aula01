@@ -100,13 +100,13 @@ az group delete \
 
 | Artefato | Arquivo | Quantidade de linhas |
 |---|---:|---:|
-| ARM Template | `template.json` | 245 |
+| ARM Template | `main.json` | 245 |
 | Terraform | `main.tf` | 159 |
 | Bicep | `main.bicep` | 189 |
 
 ### Qual ficou mais legível?
 
-O arquivo `main.bicep` ficou mais legível do que o `template.json`, pois possui uma sintaxe mais enxuta, declarativa e nativa para Azure. Em comparação ao ARM Template, o Bicep reduz bastante a verbosidade e facilita a leitura da estrutura dos recursos.
+O arquivo `main.bicep` ficou mais legível do que o `main.json`, pois possui uma sintaxe mais enxuta, declarativa e nativa para Azure. Em comparação ao ARM Template, o Bicep reduz bastante a verbosidade e facilita a leitura da estrutura dos recursos.
 
 Em relação ao Terraform, ambos são legíveis, mas com propósitos diferentes. O Terraform tem uma sintaxe clara e é muito forte para ambientes multi-cloud. Já o Bicep parece mais direto quando o escopo é exclusivamente Azure, pois os tipos de recursos, propriedades e integração com Azure Resource Manager são nativos.
 
