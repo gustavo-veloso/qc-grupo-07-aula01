@@ -538,3 +538,4 @@ A adoção de uma arquitetura multi-cloud permite à Quantum Commerce reduzir ri
 - Código IaC - Bicep: `aula-01-bicep/`
 - Scripts: `scripts/`
 - Endpoint ativo (se houver): URL pública sem credenciais — apenas para demonstração durante a janela de correção
+- Para mais facilidade e poder executar todos os passos do início ao fim com mais fluidez, aqui está o repositório com o exercício 3 [Repositório](https://github.com/gustavo-veloso/aie-cloud).
